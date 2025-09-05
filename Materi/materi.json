@@ -1,0 +1,34 @@
+{
+    "title": "biodata santri",
+    "total": 24,
+    "Status_Santri": true,
+    "Status_lulus": false,
+    "Pelajaran": ["MTK", "Bahasa Arab", "IT", "Bahasa Indonesia"],
+    "Surah":[     
+        {
+            "no": 1,
+            "Nama": "Al-fatihah",
+            "ayat": 7,
+            "turun": "makkah"
+        },
+        {
+            "no": 2,
+            "Nama": "Al-baqarah",
+            "ayat": 286,
+            "turun": "madinah"
+        },
+        {
+            "no": 3,
+            "Nama": "Ali-imran",
+            "ayat": 200,
+            "turun": "madinah"
+        },
+        {
+            "no": 4,
+            "Nama": "An-nisaa",
+            "ayat": 176,
+            "turun": "madinah"
+        }
+    ]
+}
+   

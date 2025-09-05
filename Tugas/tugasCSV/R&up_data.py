@@ -1,0 +1,1 @@
+def baca_semua(nama_file=)
